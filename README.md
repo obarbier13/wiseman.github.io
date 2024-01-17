@@ -1,13 +1,13 @@
 # wiseman.github.io
 
 ## HEADER 2 ####
-Wiseman is XYZ this is an example of text that can be imported
+Wiseman is Xg this is an example of text that can be imported
 
 ## HEADER 2 ####
 
 Picture example
 
-[<img src="pexels-photo-927022.jpeg">](https://images.pexels.com/photos/927022/pexels-photo-927022.jpeg)
+[<img src="Transportation_background.jpg">](https://www.cyberoptik.net/wp-content/uploads/2023/10/Depositphotos_312573176_L-e1697587469801.jpg)
 
 
 ## HEADER 2 ###
